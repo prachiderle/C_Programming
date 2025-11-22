@@ -4,7 +4,7 @@
 //  Description : It accepts a number as parameter and displays the pattern * #
 //  Input : Integer
 //  Output : Void
-//  Author : Sakshi Pradeep Bhapkar
+//  Author : Prachi Bhausaheb Derle
 //  Date : 29/10/2025
 //
 ///////////////////////////////////////////////////////////
@@ -40,4 +40,5 @@ int main()
     Display(iValue);
     
     return 0;
+
 }
